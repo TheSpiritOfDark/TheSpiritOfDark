@@ -3,6 +3,7 @@
 I'm TheTechFrog on discord, if you need to contact me that's the best way
 
 I'm currently working on some various Chromebook exploits with the sh1mmer exploit as a base entrypoint
+
 My pronouns are he/him, but i don't really mind
 
 I'm a 15 year old high school student with an interest in cybersecurity and computer programming!
